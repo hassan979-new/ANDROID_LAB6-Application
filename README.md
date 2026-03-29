@@ -57,10 +57,6 @@ Pour installer l’APK de ce projet Android :
    - Suivre les instructions pour installer l’application.  
 
 5. **Lancer l’application**  
-   - Une fois installée, l’application sera disponible dans le menu des applications sous le nom **PizzaRecipes**.
-   - ![System Diagram](https://github.com/hassan979-new/ANDROID_LAB6-Application/blob/main/img/WhatsApp%20Image%202026-03-13%20at%208.09.08%20PM%20(1).jpeg)
-   - ![System Diagram](https://github.com/hassan979-new/ANDROID_LAB6-Application/blob/main/img/WhatsApp%20Image%202026-03-13%20at%208.09.07%20PM.jpeg)
-   - ![System Diagram](https://github.com/hassan979-new/ANDROID_LAB6-Application/blob/main/img/WhatsApp%20Image%202026-03-13%20at%208.09.08%20PM.jpeg)
 ---
 
 
@@ -84,12 +80,9 @@ Pour installer l’APK de ce projet Android :
 ---
 
 ## 🖥️ Exemple d’exécution
-- **Splash Screen** : logo centré sur fond personnalisé.
-- ![System Diagram](https://github.com/hassan979-new/ANDROID_LAB6-Application/blob/main/img/Capture%20d%E2%80%99%C3%A9cran%202026-03-13%20202750.png)
-- **Liste des pizzas** :
-- ![System Diagram](https://github.com/hassan979-new/ANDROID_LAB6-Application/blob/main/img/Capture%20d%E2%80%99%C3%A9cran%202026-03-13%20202854.png)
-- - **Details de pizza** :
-- ![System Diagram](https://github.com/hassan979-new/ANDROID_LAB6-Application/blob/main/img/Capture%20d%E2%80%99%C3%A9cran%202026-03-13%20202909.png)
+
+https://github.com/user-attachments/assets/43a4d776-db7b-408b-80ff-bfef19dc1e69
+
 ---
 
 ## 💡 Concepts pratiqués
